@@ -13,8 +13,15 @@ import java.util.Date;
 public class SistemaIFC {
     public static void main(String[] args) {
         Estudante murilo = new Estudante();
-        murilo.getNome();
-        murilo.obterIdade(new Date());
-        murilo.genero = 'm';
+        Estudante noah = new Estudante();
+        Estudante filipe = new Estudante();
+        
+        murilo.setNome("Murilo");
+        noah.setNome("Noah");
+        filipe.setNome("Filipe");
+        
+        System.out.println(murilo.getNome());
+        System.out.println(noah.getNome());
+        System.out.println(filipe.getNome());
     }
 }
