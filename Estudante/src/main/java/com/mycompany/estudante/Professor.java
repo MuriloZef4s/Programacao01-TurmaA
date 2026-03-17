@@ -13,8 +13,8 @@ public class Professor {
 
     private String nome;
     private int numeroId;
-    private int IP;
-    private int telefone;
+    private int email;
+    private String telefone;
     private String titulaçãoAca;
     private String área;
     private String regime;
