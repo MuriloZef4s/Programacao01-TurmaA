@@ -17,9 +17,9 @@ public class Estudante {
     private String nome;
     private Date dataNascimento;
     private char genero;
-    private String IP;
-    private int telefone;
-    private int anosDeIngresso;
+    private String email;
+    private String telefone;
+    private int ano4DeIngresso;
     private int semestreDeIngresso;
     private String situaçãoAcademica;
 }
