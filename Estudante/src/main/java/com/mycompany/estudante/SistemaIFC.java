@@ -6,10 +6,9 @@ package com.mycompany.estudante;
 
 import java.util.Date;
 
-/**
- *
- * @author aluno
- */
+/*
+
+ 
 public class SistemaIFC {
     public static void main(String[] args) {
         Estudante murilo = new Estudante();
@@ -25,3 +24,4 @@ public class SistemaIFC {
         System.out.println(filipe.getNome());
     }
 }
+*/
